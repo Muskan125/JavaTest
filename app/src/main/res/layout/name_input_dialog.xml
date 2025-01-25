@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1.9in"
+    android:layout_height="1.5in"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:layout_centerInParent="true">
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:id="@+id/nametag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name Field"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:fontFamily="monospace"
+        android:layout_centerHorizontal="true"
+        />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_below="@+id/nametag"
+            android:layout_margin="10dp"
+            android:backgroundTint="#999999"
+            app:cardElevation="3dp"
+            app:cardCornerRadius="10dp">
+
+            <EditText
+                android:padding="10dp"
+                android:id="@+id/input_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent"
+                android:hint="Enter Text"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_below="@+id/card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            >
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cancel"
+                android:textSize="15dp"
+                android:backgroundTint="#D32F2F"/>
+
+            <View
+            android:layout_width="16dp"
+            android:layout_height="match_parent" />
+
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="submit"
+                android:textSize="15dp"
+                android:backgroundTint="#598717"/>
+
+        </LinearLayout>
+
+</RelativeLayout>
