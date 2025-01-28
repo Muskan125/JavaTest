@@ -1,0 +1,106 @@
+[
+  {
+    "animalName": "Elephant",
+    "breed": "African Elephant",
+    "isVeg": true,
+    "weight": 6000.5,
+    "isDomestic": false,
+    "img": "https://example.com/images/elephant.jpg"
+  },
+  {
+    "animalName": "Lion",
+    "breed": "African Lion",
+    "isVeg": false,
+    "weight": 190.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/lion.jpg"
+  },
+  {
+    "animalName": "Dog",
+    "breed": "Golden Retriever",
+    "isVeg": false,
+    "weight": 30.0,
+    "isDomestic": true,
+    "img": "https://example.com/images/dog.jpg"
+  },
+  {
+    "animalName": "Cow",
+    "breed": "Jersey",
+    "isVeg": true,
+    "weight": 500.0,
+    "isDomestic": true,
+    "img": "https://example.com/images/cow.jpg"
+  },
+  {
+    "animalName": "Kangaroo",
+    "breed": "Red Kangaroo",
+    "isVeg": true,
+    "weight": 85.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/kangaroo.jpg"
+  },
+  {
+    "animalName": "Giraffe",
+    "breed": "Reticulated Giraffe",
+    "isVeg": true,
+    "weight": 800.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/giraffe.jpg"
+  },
+  {
+    "animalName": "Panda",
+    "breed": "Giant Panda",
+    "isVeg": true,
+    "weight": 100.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/panda.jpg"
+  },
+  {
+    "animalName": "Cat",
+    "breed": "Persian",
+    "isVeg": false,
+    "weight": 4.5,
+    "isDomestic": true,
+    "img": "https://example.com/images/cat.jpg"
+  },
+  {
+    "animalName": "Horse",
+    "breed": "Arabian Horse",
+    "isVeg": true,
+    "weight": 500.0,
+    "isDomestic": true,
+    "img": "https://example.com/images/horse.jpg"
+  },
+  {
+    "animalName": "Penguin",
+    "breed": "Emperor Penguin",
+    "isVeg": false,
+    "weight": 35.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/penguin.jpg"
+  },
+  {
+    "animalName": "Tiger",
+    "breed": "Bengal Tiger",
+    "isVeg": false,
+    "weight": 220.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/tiger.jpg"
+  },
+  {
+    "animalName": "Zebra",
+    "breed": "Plains Zebra",
+    "isVeg": true,
+    "weight": 350.0,
+    "isDomestic": false,
+    "img": "https://example.com/images/zebra.jpg"
+  },
+  {
+    "animalName": "Rabbit",
+    "breed": "Himalayan Rabbit",
+    "isVeg": true,
+    "weight": 2.0,
+    "isDomestic": true,
+    "img": "https://example.com/images/rabbit.jpg"
+  }
+]
