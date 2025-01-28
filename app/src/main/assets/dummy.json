@@ -1,0 +1,68 @@
+[
+  {
+    "productName": "T-shirt",
+    "brandName": "Nike",
+    "price": "$35.00",
+    "image": "Images/product_tshirt.png"
+  },
+  {
+    "productName": "Shoes",
+    "brandName": "Adidas",
+    "price": "$95.00",
+    "image": "Images/product_shoes.jpg"
+  },
+  {
+    "productName": "Jeans",
+    "brandName": "Levi's",
+    "price": "$75.00",
+    "image": "Images/product_jeans.jpg"
+  },
+  {
+    "productName": "Top",
+    "brandName": "H&M",
+    "price": "$60.00",
+    "image": "Images/product_top.jpg"
+  },
+  {
+    "productName": "scarf",
+    "brandName": "Zara",
+    "price": "$30.00",
+    "image": "Images/product_scarf.jpg"
+  },
+  {
+    "productName": "watch",
+    "brandName": "Titan",
+    "price": "$180.00",
+    "image": "Images/product_watch.jpg"
+  },
+  {
+    "productName": "Shirt",
+    "brandName": "Peter England",
+    "price": "$50.00",
+    "image": "Images/product_shirt.jpg"
+  },
+  {
+    "productName": "watch",
+    "brandName": "Titan",
+    "price": "$180.00",
+    "image": "Images/product_watch.jpg"
+  },
+  {
+    "productName": "Shirt",
+    "brandName": "Peter England",
+    "price": "$50.00",
+    "image": "Images/product_shirt.jpg"
+  },
+  {
+    "productName": "watch",
+    "brandName": "Titan",
+    "price": "$180.00",
+    "image": "Images/product_watch.jpg"
+  },
+  {
+    "productName": "Shirt",
+    "brandName": "Peter England",
+    "price": "$50.00",
+    "image": "Images/product_shirt.jpg"
+  }
+]
